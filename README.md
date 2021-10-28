@@ -1,16 +1,22 @@
-### Hi there 👋
+### Hi, I'm Zemmouri Aymen 👋
 
-<!--
-**steamdz/steamdz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- ✨ About me: ✨
+- 👨‍🎓 Studying RSD
+- 👦 24 y/o
+- 🏃 Currently : Busy in exploiting binaries
+- 🥅 2021 Goals: Contribute more free stuffs
+- 💬 Always open to DMs feel free to ask me doubts
+- ✏️ Quote from me : If you want to build a wall you need to lay a brick everyday🙂
+- Subscribe to learn some IT Stuffs : https://youtube.com/c/aymendev
 
-Here are some ideas to get you started:
+![unnamed-removebg-preview](https://user-images.githubusercontent.com/68467119/139238417-3c1c075b-66d2-4412-97cb-343a9e174216.png)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+
+
+
+
+
