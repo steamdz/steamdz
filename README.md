@@ -2,9 +2,9 @@
 
 - ✨ About me: ✨
 - 👨‍🎓 RSD
-- 👦 25 y/o
+- 👦 26 y/o
 - 🏃 Currently : Busy in exploiting binaries
-- 🥅 2023 Goals: Contribute more free stuffs
+- 🥅 2024 Goals: Contribute more free stuffs
 - 💬 Always open to DMs feel free to ask me doubts
 - ✏️ Quote from me : If you want to build a wall you need to lay a brick everyday🙂
 - ⚠️ Subscribe to learn some IT Stuffs : https://youtube.com/c/aymendev
