@@ -1,7 +1,3 @@
-Your Readme is Done 🎉🎉🎉
-Star This Project
-Fork on Github
-
 <div align="center">
   <img height="150" src="https://i.ibb.co/r2jkVgCM/Professional-Logo-Intertwined-Letters.png"  />
 </div>
@@ -68,7 +64,7 @@ Fork on Github
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
 </div>
 
-###
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/steamdz/steamdz/output/pacman-contribution-graph-dark.svg">
