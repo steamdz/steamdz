@@ -1,3 +1,7 @@
+Your Readme is Done 🎉🎉🎉
+Star This Project
+Fork on Github
+
 <div align="center">
   <img height="150" src="https://i.ibb.co/r2jkVgCM/Professional-Logo-Intertwined-Letters.png"  />
 </div>
@@ -65,18 +69,6 @@
 </div>
 
 ###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=steamdz&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
-
-<br clear="both">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/steamdz/steamdz/output/pacman-contribution-graph-dark.svg">
