@@ -69,5 +69,7 @@
 </div>
 
 ###
+
 <img src="https://raw.githubusercontent.com/steamdz/steamdz/output/snake.svg" alt="Snake animation" />
+
 ###
