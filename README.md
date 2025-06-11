@@ -1,18 +1,22 @@
 <div align="center">
-  <img height="150" src="https://i.ibb.co/r2jkVgCM/Professional-Logo-Intertwined-Letters.png"  />
+  <img height="203" src="https://i.ibb.co/r2jkVgCM/Professional-Logo-Intertwined-Letters.png"  />
 </div>
+
+###
+
+<h1 align="center"></h1>
 
 ###
 
 <div align="center">
   <a href="https://www.youtube.com/@AYMENDEV" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="42" height="30" alt="youtube logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="47" height="35" alt="youtube logo"  />
   </a>
   <a href="https://www.facebook.com/zemmouri.aymen.dz" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="42" height="30" alt="facebook logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="47" height="35" alt="facebook logo"  />
   </a>
   <a href="https://instagram.com/steam_dz" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="42" height="30" alt="instagram logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="47" height="35" alt="instagram logo"  />
   </a>
 </div>
 
@@ -24,7 +28,7 @@
 
 ###
 
-<h1 align="center">Hey there 👋</h1>
+<h1 align="center"></h1>
 
 ###
 
@@ -64,12 +68,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
 </div>
 
+###
 
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/steamdz/steamdz/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/steamdz/steamdz/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/steamdz/steamdz/output/pacman-contribution-graph.svg">
-</picture>
+<img src="https://raw.githubusercontent.com/steamdz/steamdz/output/snake.svg" alt="Snake animation" />
 
 ###
