@@ -1,6 +1,3 @@
-<div align="center">
-  <img height="203" src="https://i.ibb.co/r2jkVgCM/Professional-Logo-Intertwined-Letters.png"  />
-</div>
 
 ###
 
