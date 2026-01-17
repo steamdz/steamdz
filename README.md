@@ -9,7 +9,7 @@
 
 ###
 
-<p align="left">Hi, I'm Zemmouri Aymen 🙋🏻‍♂️<br>- 👨‍🎓 RSD<br>- 👦 28 y/o<br>- 🏃 Currently : Busy in exploiting binaries<br>- 🥅 2025 Goals: Contribute more free stuffs<br>- 💬 Always open to DMs feel free to ask me doubts<br>- ✏️ Quote from me : If you want to build a wall you need to lay a brick everyday🙂</p>
+<p align="left">Hi, I'm Zemmouri Aymen 🙋🏻‍♂️<br>- 👨‍🎓 RSD<br>- 👦 28 y/o<br>- 🏃 Currently : Busy in exploiting binaries<br>- 🥅 2026 Goals: Contribute more free stuffs<br>- 💬 Always open to DMs feel free to ask me doubts<br>- ✏️ Quote from me : If you want to build a wall you need to lay a brick everyday🙂</p>
 
 ###
 
